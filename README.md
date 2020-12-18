@@ -1,4 +1,6 @@
 Olio-ohjelmointi 2 kurssin harjoitustyö.
+Yksinkertainen tekstinkäsittely ohjelma. Ohjelma saa tiedoston, josta lukee vitsejä tai uutisia, ja komennoilla lisätään, poistetaan, 
+tai muokataan tekstiä. 
 Projekti sisälsi muutamia kurssiopettajan tekemiä tiedostoja. Koodi pääasiassa itse tehtyä, sekä toiminnallisuudet myös itse tehty.
 
 Projektin siirto koulun gitistä ei toiminut halutulla tavalla, joten tässä versiossa, on pakkauksia jotka on syytä tarkistaa. 
