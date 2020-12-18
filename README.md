@@ -3,7 +3,10 @@ Yksinkertainen tekstinkäsittely ohjelma. Ohjelma saa tiedoston, josta lukee vit
 tai muokataan tekstiä. 
 Projekti sisälsi muutamia kurssiopettajan tekemiä tiedostoja. Koodi pääasiassa itse tehtyä, sekä toiminnallisuudet myös itse tehty.
 
-Projektin siirto koulun gitistä ei toiminut halutulla tavalla, joten tässä versiossa, on pakkauksia jotka on syytä tarkistaa. 
+Projektin siirto koulun gitistä ei toiminut halutulla tavalla, joten tässä versiossa, on pakkauksia jotka on syytä tarkistaa. Edit: Bugi pitäisi olla korjattu.
+
+Ohjelma ajetaan antamalla komentoriviparametreina tekstitiedosto (joko uutinen tai vitsit) ja sulkusanatiedosto.
+Lisäksi annettu esimerkkiteidosto komennoista.
 
 1.4.20  
 - kokeilu toimiiko netbeansin kautta.  
