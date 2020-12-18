@@ -8,13 +8,7 @@
  * @author Henry Andersson, henry.andersson@tuni.fi.
  * 
  */
-package harjoitustyo.kokoelma;
 
-import harjoitustyo.apulaiset.Kokoava;
-import harjoitustyo.dokumentit.Dokumentti;
-import harjoitustyo.dokumentit.Uutinen;
-import harjoitustyo.dokumentit.Vitsi;
-import harjoitustyo.omalista.OmaLista;
 import java.io.File;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
