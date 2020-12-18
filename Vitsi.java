@@ -1,4 +1,3 @@
-package harjoitustyo.dokumentit;
 
 
 /**
