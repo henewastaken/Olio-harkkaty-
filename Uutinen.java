@@ -1,6 +1,4 @@
 
-package harjoitustyo.dokumentit;
-
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 ;
