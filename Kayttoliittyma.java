@@ -1,7 +1,4 @@
 
-
-
-import harjoitustyo.kokoelma.Kokoelma;
 import java.io.File;
 import java.util.Scanner;
 
