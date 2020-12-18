@@ -1,6 +1,4 @@
-package harjoitustyo.omalista;
 
-import harjoitustyo.apulaiset.Ooperoiva;
 import java.util.LinkedList;
 
 /**
