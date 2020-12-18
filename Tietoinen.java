@@ -1,4 +1,3 @@
-package harjoitustyo.apulaiset;
 
 // Otetaan käyttöön Javan linkitetty lista ja järjestetty sanakirja.
 import java.util.LinkedList;
