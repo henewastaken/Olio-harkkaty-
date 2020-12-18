@@ -1,7 +1,8 @@
-## Tämä on kokeilu
+Olio-ohjelmointi 2 kurssin harjoitustyö.
+Projekti sisälsi muutamia kurssiopettajan tekemiä tiedostoja. Koodi pääasiassa itse tehtyä, sekä toiminnallisuudet myös itse tehty.
 
-Kokeilua lisää  
-  
+Projektin siirto koulun gitistä ei toiminut halutulla tavalla, joten tässä versiossa, on pakkauksia jotka on syytä tarkistaa. 
+
 1.4.20  
 - kokeilu toimiiko netbeansin kautta.  
   
