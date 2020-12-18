@@ -1,4 +1,4 @@
-package harjoitustyo.apulaiset;
+
 
 // Otetaan käyttöön vertailija.
 import java.util.Comparator;
